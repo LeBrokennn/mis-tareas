@@ -51,7 +51,3 @@ Desarrollado con 💖 por **Javiera**
 GitHub: [@LeBrokennn](https://github.com/LeBrokennn)
 
 ---
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
