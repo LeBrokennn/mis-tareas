@@ -35,14 +35,14 @@ Una aplicación web simple e interactiva para organizar tus tareas diarias. Dise
 ---
 
 ## 💡 Estructura visual (Tabla)
-````
+
 | Sección       | Contenido                            | Responsivo 📱 |
 |---------------|--------------------------------------|----------------|
 | Encabezado    | Título y resumen de tareas           | ✅              |
 | Formulario    | Input + botón para agregar            | ✅              |
 | Lista de tareas | Muestra tareas activas/completadas | ✅              |
 | Controles     | Botones para eliminar/completar todas| ✅              |
-````
+
 ---
 
 ## 👩‍💻 Autora
